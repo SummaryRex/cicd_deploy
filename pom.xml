@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://github.com/SummaryRex/cicd_deploy.git</url>
+      <url>https://maven.pkg.github.com/SummaryRex/cicd_deploy</url>
     </repository>
   </distributionManagement>
   
