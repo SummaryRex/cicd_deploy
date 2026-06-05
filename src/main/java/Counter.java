@@ -1,6 +1,6 @@
 package src.main.java;
 
-public class Counter {
+public class Counter { //ini counter 
 
 	private int count;
 	
